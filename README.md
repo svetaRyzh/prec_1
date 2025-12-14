@@ -4,4 +4,13 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/svetaRyzh/prec_1.git)
+- [Публичная страница на GitHub Pages](https://svetaryzh.github.io/prec_1/)
+
+## Технологии
+- HTML5
+
+## Структура проекта
+- `index.html` - главная страница
+- `assets/img/` - изображения
+- `assets/icons/` - иконки
+- `assets/fonts/` - шрифты
